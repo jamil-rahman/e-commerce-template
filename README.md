@@ -9,3 +9,7 @@ Technologies used for this project:
 * HTML
 * CSS
 * Bootstrap
+
+# Demo
+This site has been hosted on Netlify.
+Site link: <https://almas-landing-page.netlify.app/>
